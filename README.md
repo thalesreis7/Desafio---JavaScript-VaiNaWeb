@@ -1,9 +1,7 @@
-# 🚀 Desafio 01 - Estrutura de Dados, Funções e Condiçõe / Vai na Web
+# Desafio 01 - Estrutura de Dados, Funções e Condiçõe / Vai na Web
 
-## 📌 Agora que já conhecemos as principais estruturas do JavaScript, vamos praticar um pouco?
-Com JavaScript, é claro!!! 🤓
-
-Para a próxima semana, faça o seguinte exercício:
+## 📌 Agora que já conhecemos as principais estruturas do JavaScript, vamos praticar um pouco? Com JavaScript, é claro!!! 🤓
+### Faça o seguinte exercício:
 01 - crie uma condição composta com uma variável dia e a condição verifica se está de dia mostre 'claro' senão mostre está 'de noite'
 
 02 - Crie um loop for() que exiba apenas números pares até o 20 no console.log()
